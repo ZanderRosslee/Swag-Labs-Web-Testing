@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Twitter_Navigation", "Test_Twitter_Navigation.csproj", "{D0CF28D2-2325-477E-94BD-E91ABDB9A12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0CF28D2-2325-477E-94BD-E91ABDB9A12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CF28D2-2325-477E-94BD-E91ABDB9A12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CF28D2-2325-477E-94BD-E91ABDB9A12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CF28D2-2325-477E-94BD-E91ABDB9A12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4DC77CC-F4C6-4B26-99B6-0D9760C333D1}
+	EndGlobalSection
+EndGlobal
